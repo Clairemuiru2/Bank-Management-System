@@ -1,0 +1,26 @@
+===== BANK CUSTOMER REPORT =====
+Date: 20/05/2026 17:04:53
+
+Customer Name: Linus Lwambi
+Account Number: 1010
+Phone: 0722000000
+Address: 123 nai
+Email: linua@gmail.com
+Balance: 739011
+--------------------------------
+Customer Name: Gyzzo
+Account Number: 1234
+Phone: 0177000000
+Address: 123 Kisumu
+Email: gyzzo@gmail.com
+Balance: 34000
+--------------------------------
+Customer Name: Rebecca Rebby
+Account Number: 2030
+Phone: 0711000000
+Address: 123 Kiambu
+Email: reby@gmail.com
+Balance: 0
+--------------------------------
+
+TOTAL MONEY IN BANK: 773011
